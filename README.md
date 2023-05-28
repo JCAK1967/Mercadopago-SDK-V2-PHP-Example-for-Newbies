@@ -1,5 +1,4 @@
-# Mercadopago-SDK-V2-PHP-Example-for-Newbies
- Mercadopago SDK V2 for PHP - Ejemplo para Newbies
+# Mercadopago SDK V2 PHP - Example for Newbies
 
 Este ejemplo, con los pasos básicos sobre cómo implementar Mercadopago en PHP utilizando el SDK V2 de Mercadopago, es para ayudar a todos aquellos que han descargado el ejemplo que ofrece el sitio de Mercadopago y no les funcionó. Lo cual me pasó y fue muy frustrante. 
 
